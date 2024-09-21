@@ -1,0 +1,124 @@
+[
+      {
+        "id": 1,
+        "name": "Screwdriver Set",
+        "stock": 10,
+        "category": "Tool"
+      },
+      {
+        "id": 2,
+        "name": "Socket Wrench Set",
+        "stock": 5,
+        "category": "Tool"
+      },
+      {
+        "id": 3,
+        "name": "Oil Filter Wrench",
+        "stock": 7,
+        "category": "Tool"
+      },
+      {
+        "id": 4,
+        "name": "Brake Pads",
+        "stock": 20,
+        "category": "Spare Part"
+      },
+      {
+        "id": 5,
+        "name": "Air Filter",
+        "stock": 15,
+        "category": "Spare Part"
+      },
+      {
+        "id": 6,
+        "name": "Engine Oil",
+        "stock": 25,
+        "category": "Fluid"
+      },
+      {
+        "id": 7,
+        "name": "Coolant",
+        "stock": 30,
+        "category": "Fluid"
+      },
+      {
+        "id": 8,
+        "name": "Battery Charger",
+        "stock": 2,
+        "category": "Tool"
+      },
+      {
+        "id": 9,
+        "name": "Car Jack",
+        "stock": 4,
+        "category": "Tool"
+      },
+      {
+        "id": 10,
+        "name": "Lug Wrench",
+        "stock": 8,
+        "category": "Tool"
+      },
+      {
+        "id": 11,
+        "name": "Brake Discs",
+        "stock": 12,
+        "category": "Spare Part"
+      },
+      {
+        "id": 12,
+        "name": "Tire Repair Kit",
+        "stock": 5,
+        "category": "Repair Kit"
+      },
+      {
+        "id": 13,
+        "name": "Car Battery",
+        "stock": 10,
+        "category": "Spare Part"
+      },
+      {
+        "id": 14,
+        "name": "Spark Plugs",
+        "stock": 30,
+        "category": "Spare Part"
+      },
+      {
+        "id": 15,
+        "name": "Cable Ties",
+        "stock": 100,
+        "category": "Accessory"
+      },
+      {
+        "id": 16,
+        "name": "Car Wash Foam",
+        "stock": 10,
+        "category": "Cleaning"
+      },
+      {
+        "id": 17,
+        "name": "Wiper Blades",
+        "stock": 15,
+        "category": "Spare Part"
+      },
+      {
+        "id": 18,
+        "name": "Headlight Bulb",
+        "stock": 20,
+        "category": "Spare Part"
+      },
+      {
+        "id": 19,
+        "name": "Torque Wrench",
+        "stock": 3,
+        "category": "Tool"
+      },
+      {
+        "id": 20,
+        "name": "Antifreeze",
+        "stock": 25,
+        "category": "Fluid"
+      }
+    ]
+  
+  
