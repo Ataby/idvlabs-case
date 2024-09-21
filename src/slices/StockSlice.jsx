@@ -22,13 +22,11 @@ const stockSlice = createSlice({
     },
     reduceStock: (state, action) => {
       const { id, quantity } = action.payload;
-      console.log(id, quantity,"id ve quantity");
       const product = state.products.find((product) => product.id === id);
       if (product && product.stock >= quantity) product.stock -= quantity;
     },
     increaseStock: (state, action) => {
       const { id, quantity } = action.payload;
-      console.log(id, quantity,"id ve quantity");
       const product = state.products.find((product) => product.id === id);
       if (product && product.stock >= quantity) product.stock += quantity;
     },

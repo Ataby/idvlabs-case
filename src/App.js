@@ -38,7 +38,6 @@ function App() {
     resolver: zodResolver(schema),
     defaultValues,
   });
-  console.log(errors, "error");
 
   const onAddProduct = (data) => {
     console.log("data", data);
